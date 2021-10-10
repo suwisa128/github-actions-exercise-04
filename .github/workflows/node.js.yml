@@ -38,5 +38,5 @@ jobs:
       - uses: akhileshns/heroku-deploy@v3.12.12
         with:
           heroku_api_key: ${{secrets.HEROKU_API_KEY}}
-          heroku_app_name: "suwisa-github-action-03"
+          heroku_app_name: "suwisa-github-action-04"
           heroku_email: "61160128@go.buu.ac.th"
